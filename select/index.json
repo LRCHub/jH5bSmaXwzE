@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Mirage",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2026-01-14T02:18:12.922913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mirage",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/01_Mirage_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mirage (Mixhell Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/02_Mirage_(Mixhell_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mirage",
+      "artist": "Pryda",
+      "has_synced": true,
+      "path": "select/03_Mirage_Pryda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mirage",
+      "artist": "Scotch",
+      "has_synced": true,
+      "path": "select/04_Mirage_Scotch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Nite a DJ Saved My Life (Mirage Remix)",
+      "artist": "Indeep",
+      "has_synced": false,
+      "path": "select/05_Last_Nite_a_DJ_Saved_My_Life_(Mirage_Remix)_Indeep.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mirage",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/06_Mirage_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mirage",
+      "artist": "Ceo",
+      "has_synced": true,
+      "path": "select/07_Mirage_Ceo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mirage",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": true,
+      "path": "select/08_Mirage_Siouxsie_&_The_Banshees.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mirage",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": true,
+      "path": "select/09_Mirage_Siouxsie_and_the_Banshees.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mirage (OP Theme to Call of the Night Season 2)",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_Mirage_(OP_Theme_to_Call_of_the_Night_Season_2)_CreepyNuts.txt"
+    }
+  ]
+}
